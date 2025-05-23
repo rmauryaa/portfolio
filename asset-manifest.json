@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c636c947.css",
+    "main.js": "/portfolio/static/js/main.3f84f91a.js",
+    "static/js/653.14db4f74.chunk.js": "/portfolio/static/js/653.14db4f74.chunk.js",
+    "static/js/923.47cb891c.chunk.js": "/portfolio/static/js/923.47cb891c.chunk.js",
+    "static/js/627.b968a6b3.chunk.js": "/portfolio/static/js/627.b968a6b3.chunk.js",
+    "static/js/738.29211f81.chunk.js": "/portfolio/static/js/738.29211f81.chunk.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/Viatours.png": "/portfolio/static/media/Viatours.7126c46131ef7d1321f2.png",
+    "static/media/weekend_planner.png": "/portfolio/static/media/weekend_planner.353357ae73168b32a588.png",
+    "static/media/Dmart.png": "/portfolio/static/media/Dmart.a25d4e5e5e6d8b2047f0.png",
+    "static/media/project-3.jpg": "/portfolio/static/media/project-3.624803b7a42958b087f6.jpg",
+    "static/media/todo_list.png": "/portfolio/static/media/todo_list.20e7ab787d00b1bd2676.png",
+    "static/media/project-2.jpg": "/portfolio/static/media/project-2.4ec31551756d6ef0f25b.jpg",
+    "static/media/argocd.png": "/portfolio/static/media/argocd.83035b2b83868d3ed1c6.png",
+    "static/media/project-5.jpg": "/portfolio/static/media/project-5.68627685c1435b30ec50.jpg",
+    "static/media/project-4.jpg": "/portfolio/static/media/project-4.96031cff4846c70d39cb.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.b1b5bde72eaab4b81434.png",
+    "static/media/render.png": "/portfolio/static/media/render.017f5d53c132f40eb9a9.png",
+    "static/media/project-1.jpg": "/portfolio/static/media/project-1.b9af539c2fb3e7c3c022.jpg",
+    "static/media/storm.png": "/portfolio/static/media/storm.6397b1492537a8c8f204.png",
+    "static/media/project-6.jpg": "/portfolio/static/media/project-6.c238cec718c9d1a0d13e.jpg",
+    "static/media/icon-4.svg": "/portfolio/static/media/icon-4.82c4ed88e7a394b3e7c6.svg",
+    "static/media/icon-1.svg": "/portfolio/static/media/icon-1.6e94c007f825203c0084.svg",
+    "static/media/icon-3.svg": "/portfolio/static/media/icon-3.704123cfbd1e30d61589.svg",
+    "static/media/icon-2.svg": "/portfolio/static/media/icon-2.dcc012403679eb2a7de9.svg",
+    "index.html": "/portfolio/index.html",
+    "main.c636c947.css.map": "/portfolio/static/css/main.c636c947.css.map",
+    "main.3f84f91a.js.map": "/portfolio/static/js/main.3f84f91a.js.map",
+    "653.14db4f74.chunk.js.map": "/portfolio/static/js/653.14db4f74.chunk.js.map",
+    "923.47cb891c.chunk.js.map": "/portfolio/static/js/923.47cb891c.chunk.js.map",
+    "627.b968a6b3.chunk.js.map": "/portfolio/static/js/627.b968a6b3.chunk.js.map",
+    "738.29211f81.chunk.js.map": "/portfolio/static/js/738.29211f81.chunk.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c636c947.css",
+    "static/js/main.3f84f91a.js"
+  ]
+}
